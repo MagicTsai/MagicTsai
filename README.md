@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MagicTsai
 - 👀 I’m interested in Augmented Reality, AI application.
-- 🌱 I’m currently learning AI appliaction for planting rice and AR for riding.
+- 🌱 I’m currently learning AI appliaction for planting rice, document idenfication and AR for riding.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
